@@ -1,8 +1,8 @@
-Hi! I'm Jagarapu Radha Krishna, an aspiring Backend & Full-Stack Developer passionate about building scalable and intelligent web applications. I am currently pursuing my BSc in Computer Science with a focus on Data Science and honing my skills through internships and real-world projects.
+Hi! I'm Jagarapu Radha Krishna, an aspiring Backend & Full-Stack Developer passionate about building scalable and intelligent web applications. I am currently pursuing my BTech in Computer Science with a focus on Data Science and honing my skills through internships and real-world projects.
 
 Skills & Expertise:
 ________________________________________________________________________________________________________________________________________________________________________
-Backend Development: Java Spring Boot, Node.js, REST APIs, JWT/OAuth2 Authentication
+Backend Development: Python ( Flask & Django ), Node.js, REST APIs, JWT/OAuth2 Authentication
 
 Frontend Development: React, Next.js, Tailwind CSS
 
