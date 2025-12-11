@@ -69,8 +69,4 @@ Cloud deployments, optimization, and automation
 
 OPEN TO
 
-Full-stack development
-Backend engineering
-AI/ML integrations
-Freelance and client projects
-Open-source contributions
+Full-stack development , Backend engineering , Freelance and client projects ,Open-source contributions
